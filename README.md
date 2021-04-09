@@ -20,3 +20,7 @@ About me:
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Twitch Badge](https://img.shields.io/badge/-@oN4ndo_-white?style=flat-square&labelColor=white&logo=twitch&logoColor=6441a5&link=https://www.twitch.tv/on4ndo_)](https://www.twitch.tv/on4ndo_) 
 [![Instagram Badge](https://img.shields.io/badge/-@nfg.n4ndo-white?style=flat-square&logo=Instagram&logoColor=E1306C&link=https://www.instagram.com/nfg.n4ndo/)](https://www.instagram.com/nfg.n4ndo/) 
 [![Gmail Badge](https://img.shields.io/badge/-fajs5002@gmai.com-white?style=flat-square&logo=Gmail&logoColor=red&link=fajs5002@gmail.com)](fajs5002@gmail.com)
+
+***
+
+![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegoshakan&show_icons=true&count_private=true&theme=radical)
