@@ -18,5 +18,5 @@ About me:
 ***
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Twitch Badge](https://img.shields.io/badge/-@oN4ndo_-white?style=flat-square&labelColor=white&logo=twitch&logoColor=6441a5&link=https://www.twitch.tv/on4ndo_)](https://www.twitch.tv/on4ndo_) 
-[![Instagram Badge](https://img.shields.io/badge/-@nfg.n4ndo-white?style=flat-square&logo=Instagram&logoColor=2f3136&link=https://www.instagram.com/nfg.n4ndo/)](https://www.instagram.com/nfg.n4ndo/) 
+[![Instagram Badge](https://img.shields.io/badge/-@nfg.n4ndo-white?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/nfg.n4ndo/)](https://www.instagram.com/nfg.n4ndo/) 
 [![Gmail Badge](https://img.shields.io/badge/-fajs5002@gmai.com-white?style=flat-square&logo=Gmail&logoColor=red&link=fajs5002@gmail.com)](fajs5002@gmail.com)
