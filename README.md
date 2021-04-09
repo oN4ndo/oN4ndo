@@ -23,4 +23,4 @@ About me:
 
 ***
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![oN4ndo's github stats](https://github-readme-stats.vercel.app/api?username=oN4ndo&show_icons=true&count_private=true&theme=dracula)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=oN4ndo&show_icons=true&count_private=true&theme=dracula)
