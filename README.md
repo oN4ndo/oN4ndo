@@ -14,7 +14,7 @@ About me:
 - 📍 - São Paulo, Brazil.
 - 💻 - I’m currently working on freelance projects.
 - 🔗 - Sharing a little of my Projects at my [Discord](https://discord.gg/DFRsaFQYMF)!
-
+**
 
 [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
