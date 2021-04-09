@@ -22,5 +22,3 @@ About me:
 [![Gmail Badge](https://img.shields.io/badge/-fajs5002@gmai.com-white?style=flat-square&logo=Gmail&logoColor=red&link=fajs5002@gmail.com)](fajs5002@gmail.com)
 
 ***
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=oN4ndo&show_icons=true&count_private=true&theme=dracula)
