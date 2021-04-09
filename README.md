@@ -17,6 +17,6 @@ About me:
 
 ***
 
-[![Twitch Badge](https://img.shields.io/badge/-@oN4ndo_-white?style=flat-square&labelColor=white&logo=twitch&logoColor=purple&link=https://www.twitch.tv/on4ndo_)](https://www.twitch.tv/on4ndo_) 
-[![Discord Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Twitch Badge](https://img.shields.io/badge/-@oN4ndo_-white?style=flat-square&labelColor=white&logo=twitch&logoColor=6441a5&link=https://www.twitch.tv/on4ndo_)](https://www.twitch.tv/on4ndo_) 
+[![Discord Badge](https://img.shields.io/badge/-oN4ndo#6330-white?style=flat-square&logo=Linkedin&logoColor=2f3136&link=https://discord.gg/)](https://discord.gg/) 
+[![Gmail Badge](https://img.shields.io/badge/-fajs5002@gmai.com-white?style=flat-square&logo=Gmail&logoColor=red&link=fajs5002@gmail.com)](fajs5002@gmail.com)
