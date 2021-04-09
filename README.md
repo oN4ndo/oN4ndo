@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey, What's up? 👋🏼
 
-<!--
-**oN4ndo/oN4ndo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Fernando Januzzi, but you can call me oN4ndo, I'm from Brazil and I'm Computer Engineer, that has been studying to be a **Front-End** and **Back-End** developer since **2020.** 👨🏽‍💻
+****
+I like to solve problems and learn a lot, Always looking for **new challenges** and **ready to face changes**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning **LUA, HTML, CSS, JS** For **FiveM** and others.
+****
+About me:
+- 📍 - São Paulo, Brazil.
+- 💻 - I’m currently working on freelance projects.
+- 🔗 - Sharing a little of my Projects at my [Discord](https://discord.gg/DFRsaFQYMF)!
+****
